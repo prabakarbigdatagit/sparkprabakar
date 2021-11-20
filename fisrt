@@ -1,0 +1,10 @@
+this is the fisrt file iam saving into git
+$git --version (to see the version)
+$git init  to initialize a empty git file
+$git config --global user.name 'prabakar'
+$git config --global user.email 'bigdataprabakar@gmail.com'
+#create the file you want and then you can add those file to git
+$git add index.html (adds a single file)
+$git add *.html (add all the html files)
+$git add . (adds all thee files inside the folder)
+
