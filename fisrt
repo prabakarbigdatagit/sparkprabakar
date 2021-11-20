@@ -7,4 +7,5 @@ $git config --global user.email 'bigdataprabakar@gmail.com'
 $git add index.html (adds a single file)
 $git add *.html (add all the html files)
 $git add . (adds all thee files inside the folder)
-
+$git commit (adds all the files into the repository
+$git commit -m 'Changed app.js' to commit only the wanted file to commit
